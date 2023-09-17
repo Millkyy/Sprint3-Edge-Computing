@@ -50,3 +50,6 @@ Para a aplicação prática da IoT, utilizamos um esquema em Arduino (o código 
 - Configure o widget com o dispositivo criado e uma das variáveis.
 - Crie outro widget com a outra variável.
 - Verifique se os gráficos apresentam os valores lidos pelo sensor.
+
+Link do vídeo no YouTube:
+https://youtu.be/ykGct-O8oDY
