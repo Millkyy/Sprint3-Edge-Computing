@@ -1,0 +1,13 @@
+var msg = {
+    payload: [{
+        "variable": "umidade",
+        "unit": "%",
+        "value": msg.payload.umidade,
+    },
+    {
+        "variable": "temperatura",
+        "unit": "C",
+        "value": msg.payload.temperatura
+    }]
+}
+return msg;
