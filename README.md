@@ -5,15 +5,15 @@
 - Gabriel Antony Cadima Ciziks - 98215
 - Lucca Sabatini Tambellini - 98169
 
-  O projeto:
+    O projeto:
 
 O projeto "Care Connect" propõe uma solução inovadora para auxiliar as ONGs na captação de recursos financeiros, aproveitando o potencial das redes sociais e jogos para gerar doações. A plataforma permitirá aos usuários acumular pontos por meio do envolvimento online, convertendo esses pontos em doações transparentes para causas sociais e ambientais. Além disso, uma abordagem adicional envolve a venda de kits Arduino com sensores de temperatura e umidade para monitorar o cultivo de plantas em casa, oferecendo outra fonte de financiamento sustentável para as ONGs, promovendo simultaneamente a conscientização ambiental.
 
-  Desenvolvimento da arquitetura para uma aplicação IoT:
+    Desenvolvimento da arquitetura para uma aplicação IoT:
 
 A Internet das Coisas (IoT), também conhecida como Internet of Things em inglês (IoT), é uma tecnologia que descreve uma rede de objetos físicos incorporados com sensores, software e outras tecnologias. O objetivo principal é conectar esses objetos à internet e permitir que eles troquem dados com outros dispositivos e sistemas. Esses dispositivos podem variar amplamente, desde objetos domésticos comuns, como eletrodomésticos, até ferramentas industriais sofisticadas e até mesmo carros. Esses itens têm a capacidade de coletar informações e transmiti-las através da nuvem, permitindo um mundo cada vez mais conectado e inteligente.
 
-  Instruções para a aplicação prática da IoT:
+    Instruções para a aplicação prática da IoT:
 
 Para a aplicação prática da IoT, utilizamos um esquema em Arduino (o código utilizado está disponível no arquivo code.ino e uma imagem do esquema também está disponível).
 
