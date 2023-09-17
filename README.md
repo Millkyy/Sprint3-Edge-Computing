@@ -18,7 +18,7 @@ A Internet das Coisas (IoT), também conhecida como Internet of Things em inglê
 Para a aplicação prática da IoT, utilizamos um esquema em Arduino (o código utilizado está disponível no arquivo code.ino e uma imagem do esquema também está disponível).
 
 - Utilize o esquema com o sensor DHT11 (que mede a temperatura e umidade).
-- Escreva o código no Arduino, incluindo as duas bibliotecas (disponíveis neste repositório).
+- Escreva o código no Arduino, incluindo as duas bibliotecas DHT11 e ArduinoJson(DHT11 disponível neste repositório e ArduinoJson pesquisando e baixando na biblioteca do arduino).
 - Verifique se os valores do sensor estão sendo lidos no Serial Monitor.
 - Faça a instalação local do Node-RED.
 - Digite no Node.js Command Prompt: npm install -g --unsafe-perm node-red.
